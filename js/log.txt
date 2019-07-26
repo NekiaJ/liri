@@ -1,0 +1,61 @@
+jill scott Upcoming Show:
+                    City: Oakland
+                    Venue Name: Jill Scott 
+                    Date (Powered by momentJS): 07/26/2019
+                    ,jill scott Upcoming Show:
+                    City: Saratoga
+                    Venue Name: Jill Scott
+                    Date (Powered by momentJS): 07/29/2019
+                    ,jill scott Upcoming Show:
+                    City: Los Angeles
+                    Venue Name: Jill Scott
+                    Date (Powered by momentJS): 08/03/2019
+                    ,jill scott Upcoming Show:
+                    City: Richmond
+                    Venue Name: Richmond Jazz Festival
+                    Date (Powered by momentJS): 08/10/2019
+                    ,jill scott Upcoming Show:
+                    City: Atlanta
+                    Venue Name: Jill Scott
+                    Date (Powered by momentJS): 08/12/2019
+                    ,jill scott Upcoming Show:
+                    City: San Diego
+                    Venue Name: Humphreys Concerts By the Bay
+                    Date (Powered by momentJS): 08/14/2019
+                    ,jill scott Upcoming Show:
+                    City: Boston
+                    Venue Name: Jill Scott
+                    Date (Powered by momentJS): 08/21/2019
+                    ,jill scott Upcoming Show:
+                    City: Ledyard Center
+                    Venue Name: Jill Scott
+                    Date (Powered by momentJS): 08/22/2019
+                    ,jill scott Upcoming Show:
+                    City: Brooklyn
+                    Venue Name: Afropunk
+                    Date (Powered by momentJS): 08/24/2019
+                    ,jill scott Upcoming Show:
+                    City: Oxon Hill
+                    Venue Name: Jill Scott
+                    Date (Powered by momentJS): 08/30/2019
+                    ,jill scott Upcoming Show:
+                    City: Oxon Hill
+                    Venue Name: Jill Scott
+                    Date (Powered by momentJS): 08/31/2019
+                    Movie This Result:
+            Movie Name: Halloween
+        Release Year: 1978
+        IMDB Rating: 7.8
+        RT Rating: 95%
+        Country: USA
+        Language: English
+        Plot Summ: Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.
+        Actors: Donald Pleasence, Jamie Lee Curtis, Nancy Kyes, P.J. Solesmaroon 5 Upcoming Show:
+                    City: Willemstad, Curaçao
+                    Venue Name: Curacao North Sea Jazz Festival
+                    Date (Powered by momentJS): 08/31/2019
+                    ,maroon 5 Upcoming Show:
+                    City: Hollywood
+                    Venue Name: Seminole Hard Rock Hotel & Casino - Hollywood, FL
+                    Date (Powered by momentJS): 10/25/2019
+                    
